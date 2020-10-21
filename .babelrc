@@ -1,0 +1,5 @@
+{
+    // Tried_preset-env_transpiles_ES6_to_ES5
+    // Tried_preset-react_to_handle_jsx
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
